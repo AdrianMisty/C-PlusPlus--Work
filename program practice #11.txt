@@ -1,0 +1,18 @@
+import java.util.*;
+import java.lang.*; 
+import java.io.*; 
+public boolean isValid(){         
+Scanner input = new Scanner(System.in);                  
+double distance;        
+ double fuelEfficency;        
+ double pricePerGallon;         
+double cost;          
+//user inputs distance             
+distance = input.nextDouble();          
+
+//user inputs fuel efficeny          
+fuelEfficency = input.nextDouble();          
+//user inputs price per gallon         
+pricePerGallon = input.nextDouble(); 
+return cost;
+}}
