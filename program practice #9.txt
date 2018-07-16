@@ -1,4 +1,7 @@
-
+/*
+* Name : Adriana Alva
+* Date : 08-20-2014
+*/
 
 #include <iostream>
 #include <iomanip>
@@ -6,12 +9,9 @@
 using namespace std;
 
 // Function prototypes
-// Print out the program description
-void printDescription();
-// Calculate gross pay
-float computeGrossPay(float, int);
-// Calculate net pay
-float computeNetPay(float);
+void printDescription();                // Print out the program description
+float computeGrossPay(float, int);      // Calculate gross pay
+float computeNetPay(float);             // Calculate net pay
 
 int main()
 {
@@ -46,7 +46,7 @@ int main()
    cout << endl;
 
    // Fill in the code to display grossPay and to calculate
-   // and display netPay – use the computeNetPay function to
+   // and display netPay â€“ use the computeNetPay function to
    // calculate the net pay.
 
    cout << "We hope you enjoyed this program" << endl;
